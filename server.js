@@ -12,10 +12,10 @@ app.use(express.json());
 const PORT = process.env.PORT;
 
 const { getUser } = require("./controllers/museum.controller");
-app.get("/user", getUser);
+app.get("/", getUser);
 
-const getIndex = require("./controllers/index.controller");
-app.get("/", getIndex);
+// const getIndex = require("./controllers/index.controller");
+// app.get("/", getIndex);
 
 
 app.listen(PORT, () => {

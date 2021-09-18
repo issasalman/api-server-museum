@@ -9,7 +9,7 @@ app.use(cors());
 app.use(express.json());
 
 
-
+const PORT = process.env.PORT;
 
 const { getUser } = require("./controllers/museum.controller");
 app.get("/", getUser);
@@ -17,6 +17,6 @@ app.get("/", getUser);
 
 
 
-app.listen(3027, () => {
-  console.log(`Server started on port ${3027}`);
+app.listen(PORT, () => {
+  console.log(`Server started on port ${PORT}`);
 });

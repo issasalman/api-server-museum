@@ -4,7 +4,7 @@
         "location": "amsterdam",
         "event_description": "This is an event dedicated to the aforementioned museum, and the aim of the event is to increase art lovers around the world and facilitate access to museums and take an overview of the art paintings.",
         "event_description_image": "https://cdn.pariscityvision.com/library/image/6620.jpg",
-        "ticket_price": "100$$ " ,
+        "ticket_price": "100$ " ,
         "id": "Louvre",
         "title": "Night Patrol",
         "main_reference_number": "2019.1516.7",
@@ -15,7 +15,7 @@
        
     },
    
-    {"name": "Metropolitan_Museum_of_art",
+    {"name": "Metropolitan Museum of art",
         "location": "New York, USA",
         "description": "",
         "event_description": "This is an event dedicated to the aforementioned museum, and the aim of the event is to increase art lovers around the world and facilitate access to museums and take an overview of the art paintings.",
@@ -31,7 +31,7 @@
       
 
     },
-    {"name": "THE_PRADO",
+    {"name": "THE PRADO",
         "location": " New Jersey",
         "description": "",
         "event_description": "This is an event dedicated to the aforementioned museum, and the aim of the event is to increase art lovers around the world and facilitate access to museums and take an overview of the art paintings.",
@@ -46,7 +46,7 @@
         "museum_image": "https://thumbs.dreamstime.com/b/prado-museum-madrid-spain-night-61098794.jpg"
       
     },
-    {"name": "THE_VATICAN_MUSEUMS",
+    {"name": "THE VATICAN MUSEUMS",
         "location": "VATICAN CITY, ITALY",
         "description": "",
         "event_description": "This is an event dedicated to the aforementioned museum, and the aim of the event is to increase art lovers around the world and facilitate access to museums and take an overview of the art paintings.",
@@ -62,7 +62,7 @@
        
     },
    
-    {"name": "THE_STATE_HERMITAGE_MUSEUM",
+    {"name": "THE STATE HERMITAGE MUSEUM",
         "location": "ST PETERSBURG, RUSSIA",
         "description": "",
         "event_description": "This is an event dedicated to the aforementioned museum, and the aim of the event is to increase art lovers around the world and facilitate access to museums and take an overview of the art paintings.",
@@ -76,7 +76,7 @@
         "image_id": "https://farm5.staticflickr.com/4381/35940333834_cbe1ae27cc_o.jpg",
         "museum_image": "https://choosetravel.pl/2012/09/24/petersburg-czyli-wenecja-polnocy/petersburg-17/"
     },
-    {"name": "THE_UFFIZI_GALLERIES",
+    {"name": "THE UFFIZI GALLERIES",
         "location": "FLORENCE, ITALY",
         "description": "",
         "event_description": "This is an event dedicated to the aforementioned museum, and the aim of the event is to increase art lovers around the world and facilitate access to museums and take an overview of the art paintings.",
@@ -90,7 +90,7 @@
         "image_id": "https://alkhaleejonline.net/sites/default/files/styles/slide/public/2017-05/1494921984024726600.jpg?itok=Cfs87qgD",
         "museum_image": "https://cdn.getyourguide.com/img/location/60096fc0e4e89.jpeg/88.jpg"
     },
-    {"name": "THE_BRITISH_MUSEUM",
+    {"name": "THE BRITISH MUSEUM",
         "location": "LONDON, UNITED KINGDOM",
         "description": "",
         "event_description": "This is an event dedicated to the aforementioned museum, and the aim of the event is to increase art lovers around the world and facilitate access to museums and take an overview of the art paintings.",
@@ -108,7 +108,7 @@
         "location": "Paris, France",
         "event_description": "This is an event dedicated to the aforementioned museum, and the aim of the event is to increase art lovers around the world and facilitate access to museums and take an overview of the art paintings.",
         "event_description_image": "https://cdn.pariscityvision.com/library/image/6620.jpg",
-        "ticket_price": "100$$ " ,
+        "ticket_price": "100$" ,
         "id": "Louvre",
         "title": "health",
         "main_reference_number": "2014.654",
@@ -871,7 +871,7 @@
         "location": "Paris, France",
         "event_description": "This is an event dedicated to the aforementioned museum, and the aim of the event is to increase art lovers around the world and facilitate access to museums and take an overview of the art paintings.",
         "event_description_image": "https://cdn.pariscityvision.com/library/image/6620.jpg",
-        "ticket_price": "100$$ " ,
+        "ticket_price": "100$" ,
         "id": "Louvre",
         "title": "the spring",
         "main_reference_number": "2000.27",
@@ -884,7 +884,7 @@
         "location": "Paris, France",
         "event_description": "This is an event dedicated to the aforementioned museum, and the aim of the event is to increase art lovers around the world and facilitate access to museums and take an overview of the art paintings.",
         "event_description_image": "https://images.hindustantimes.com/rf/image_size_630x354/HT/p2/2019/04/24/Pictures/_7f7499a4-6677-11e9-9706-c5428a3382f6.JPG",
-        "ticket_price": "100$$ " ,
+        "ticket_price": "100$" ,
         "id": "Louvre",
         "title": "Autumn",
         "main_reference_number": "1992.112",
